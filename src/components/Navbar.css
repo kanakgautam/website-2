@@ -23,6 +23,11 @@
   font-size: 1.6rem;
 }
 
+.btn-grp{
+  display: flex;
+  flex-direction: row;
+}
+
 .nav-menu {
   display: grid;
   grid-template-columns: repeat(7, auto);

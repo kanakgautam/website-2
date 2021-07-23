@@ -21,6 +21,19 @@ function Home() {
                     <img className='section1-img' src={image1}></img>
                 </div>
             </div>
+            
+            <div className='section1-container-inactive'>
+            <div className='section1-container-right'>
+                    <img className='section1-img' src={image1}></img>
+                </div>
+                <div className='section1-container-left'>
+                    <h1 className='section1-heading-black'>Making the most of the ever-growing</h1>
+                    <h1 className='section1-heading-red'>Information Technology</h1>
+                    <p className='section1-para'>Managed by a team of professional experts with extensive experience and impressive track records</p>
+                    <button className='section1-btn'>Read More</button>
+                </div>
+            </div>
+
             <div className='section2-container'>
                 <div className='section2-container-left'>
                     <img className='section2-img' src={image2}></img>

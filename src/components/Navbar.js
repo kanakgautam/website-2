@@ -89,7 +89,7 @@ function Navbar() {
                 </li>
             </ul>
             <div className='top-left'>
-                <div className='get-started'>
+                <div className='btn-grp'>
                     <Button src={navbtn1} />
                     <Button src={navbtn2} />
                     <Button src={navbtn3} />
